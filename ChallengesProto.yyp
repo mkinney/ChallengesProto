@@ -58,6 +58,25 @@
             }
         },
         {
+            "Key": "0b1ab690-aaf1-4d7d-8f3e-925f0d40f315",
+            "Value": {
+                "id": "a890791d-efa0-4a72-9711-4b243d730dac",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sChallenge3\/sChallenge3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "14a86d99-6259-45b6-a4ab-540e2a35e1f7",
             "Value": {
                 "id": "69b02a38-0ba4-47a9-96e4-0654a5281c7d",
@@ -73,6 +92,25 @@
                     "default"
                 ],
                 "resourcePath": "objects\/oPlayer\/oPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "250bb42f-3d32-4143-bc4d-65208fed5c22",
+            "Value": {
+                "id": "cf3d2cf7-e64d-4816-9495-8f142fcbb4bf",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oChallenge3\/oChallenge3.yy",
                 "resourceType": "GMObject"
             }
         },

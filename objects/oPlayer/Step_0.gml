@@ -43,11 +43,15 @@ if (challenge == 0) {
 				x = oChallenge2.x - 66;
 				y = oChallenge2.y - 66;
 				break;
+			case 3:
+				x = oChallenge3.x - 66;
+				y = oChallenge3.y - 66;
+				break;
 		}
 		
 		// allow them to "quit" out of the challenge
 		if (string_upper(last) != "Q") {
-			responses[challenge - 1] = last;
+			responses[challenge - 1] = string_upper(last);
 		}
 
 		challenge_solved();
