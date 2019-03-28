@@ -1,6 +1,6 @@
 var my_speed = 6;
 
-if (challenge == 0) {
+if (challenge < 0) {
 	// only move player if not in a challenge
 	if (keyboard_check(vk_up)) {
 		y = y - my_speed;
@@ -34,8 +34,12 @@ if (challenge == 0) {
 
 	if (valid) {
 		switch (challenge) {
-			case 1:
+			case 0:
 				// there is probably a better way to find out which challenge we are in
+				x = oChallenge0.x - 66;
+				y = oChallenge0.y - 66;
+				break;
+			case 1:
 				x = oChallenge1.x - 66;
 				y = oChallenge1.y - 66;
 				break;
@@ -43,18 +47,14 @@ if (challenge == 0) {
 				x = oChallenge2.x - 66;
 				y = oChallenge2.y - 66;
 				break;
-			case 3:
-				x = oChallenge3.x - 66;
-				y = oChallenge3.y - 66;
-				break;
 		}
 		
 		// allow them to "quit" out of the challenge
 		if (string_upper(last) != "Q") {
-			responses[challenge - 1] = string_upper(last);
+			responses[challenge] = string_upper(last);
 		}
 
 		challenge_solved();
-		challenge = 0;
+		challenge = -1;
 	}
 }

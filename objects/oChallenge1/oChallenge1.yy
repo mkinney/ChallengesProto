@@ -1,5 +1,5 @@
 {
-    "id": "ae04e094-9c79-494f-ae46-f497d805ee5e",
+    "id": "eb2d477b-9746-4868-9cd2-ce49358780e2",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "oChallenge1",
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "fc98c87b-ae5f-4fef-bf92-514ef0d16dca",
+    "spriteId": "29be1341-27b3-4e98-a8fa-e41c4730b07a",
     "visible": true
 }

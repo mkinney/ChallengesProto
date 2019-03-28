@@ -72,7 +72,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/sChallenge3\/sChallenge3.yy",
+                "resourcePath": "sprites\/sChallenge2\/sChallenge2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -110,7 +110,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/oChallenge3\/oChallenge3.yy",
+                "resourcePath": "objects\/oChallenge2\/oChallenge2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -129,7 +129,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/sChallenge2\/sChallenge2.yy",
+                "resourcePath": "sprites\/sChallenge1\/sChallenge1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -395,7 +395,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/oChallenge1\/oChallenge1.yy",
+                "resourcePath": "objects\/oChallenge0\/oChallenge0.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -604,7 +604,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/oChallenge2\/oChallenge2.yy",
+                "resourcePath": "objects\/oChallenge1\/oChallenge1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -661,7 +661,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/sChallenge1\/sChallenge1.yy",
+                "resourcePath": "sprites\/sChallenge0\/sChallenge0.yy",
                 "resourceType": "GMSprite"
             }
         }

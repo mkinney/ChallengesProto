@@ -4,8 +4,8 @@ for (var i = 0; i < oPlayer.total_challenges; i++) {
 		solved = 1;
 	}
 	switch (i) {
-		case 0: sChallenge1.image_index = solved; break;
-		case 1: sChallenge2.image_index = solved; break;
-		case 2: sChallenge3.image_index = solved; break;
+		case 0: sChallenge0.image_index = solved; break;
+		case 1: sChallenge1.image_index = solved; break;
+		case 2: sChallenge2.image_index = solved; break;
 	}
 }

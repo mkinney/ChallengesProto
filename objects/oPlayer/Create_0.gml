@@ -1,4 +1,4 @@
-challenge = 0;
+challenge = -1;
 total_challenges = 3;
 
 challenges = array_create(total_challenges, noone);
